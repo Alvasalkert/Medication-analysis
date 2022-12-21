@@ -4,12 +4,14 @@ Group Phyton whisperers: Alva, Lovisa, Mike, Cláudio and Nils
 
 Scope: Project 2 - We need medication
  Define what the End goal should be.
-Our overall goal is to enable the user to select a specific medication to be able to compare the price per milligram per product.
+Our overall goal to make a table of the price per milligram per product and markup.
 Prices (purchase price and sale price)
 Measurements
+
+
 Process
 Access the Data
-Translate the Data from French to English (maybe Swedish as well)
+Translate the Data from French to English
 Clean the Data in suitable program depending on the format (Excel, SQL or Python)
 View the data to see what aspects are relevant
 Query the data
