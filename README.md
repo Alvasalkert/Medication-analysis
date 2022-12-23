@@ -2,6 +2,8 @@
 
 Group Phyton whisperers: Alva, Lovisa, Mike, Cláudio and Nils
 
+To run this code you might need to install Deep-Translator in order to translate the form collumn.
+
 Scope: Project 2 - We need medication
  Define what the End goal should be.
 Our overall goal to make a table of the price per milligram per product and markup.
